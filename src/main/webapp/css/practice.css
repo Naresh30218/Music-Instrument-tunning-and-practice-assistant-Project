@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+
+}
+
+.heading{
+    color: #ffd381;
+    display: flex;
+    justify-content: center;
+    margin-top: 44px;
+}
+
+.fbox{
+    display: flex;
+    color: #4af956;
+}
+
+.Trackplayer{
+    width: 50vw;
+    text-align: match-parent;
+    margin-left: 69px;
+    margin-top: 161px;
+}
+
+
+
+#bckbtn {
+    color: #fdfdfe;
+    background-color: #8e0d8d;
+}
+
+.bck {
+    position: absolute;
+    top: 16px;
+    left: 18px;
+}
